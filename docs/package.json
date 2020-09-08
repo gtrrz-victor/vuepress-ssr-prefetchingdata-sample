@@ -1,0 +1,21 @@
+{
+  "name": "sample-use-create-hook",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/sample-use-create-hook",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.20.0",
+    "vuepress": "^1.5.3",
+    "vuex": "^3.5.1"
+  }
+}
